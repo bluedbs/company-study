@@ -7,6 +7,7 @@
 | --- | --- | --- |
 | Anthropic | 2026.11.28 | [analysis/Anthropic.md](analysis/Anthropic.md) |
 | Apple | 2026.11.28 | [analysis/Apple.md](analysis/Apple.md) |
+| Meta Platforms | 2026.11.28 | [analysis/Meta-Platforms.md](analysis/Meta-Platforms.md) |
 | Sandisk | 2026.11.28 | [analysis/Sandisk.md](analysis/Sandisk.md) |
 | Sony | 2026.11.28 | [analysis/Sony.md](analysis/Sony.md) |
 | SpaceX | 2026.11.28 | [analysis/SpaceX.md](analysis/SpaceX.md) |
