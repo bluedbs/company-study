@@ -6,6 +6,7 @@
 | 기업 | 최종 갱신 | 문서 |
 | --- | --- | --- |
 | Anthropic | 2026.11.28 | [analysis/Anthropic.md](analysis/Anthropic.md) |
+| Apple | 2026.11.28 | [analysis/Apple.md](analysis/Apple.md) |
 | Sandisk | 2026.11.28 | [analysis/Sandisk.md](analysis/Sandisk.md) |
 | Sony | 2026.11.28 | [analysis/Sony.md](analysis/Sony.md) |
 | SpaceX | 2026.11.28 | [analysis/SpaceX.md](analysis/SpaceX.md) |
