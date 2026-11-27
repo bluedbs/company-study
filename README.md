@@ -6,6 +6,7 @@
 | 기업 | 최종 갱신 | 문서 |
 | --- | --- | --- |
 | Sandisk | 2026.11.28 | [analysis/Sandisk.md](analysis/Sandisk.md) |
+| Sony | 2026.11.28 | [analysis/Sony.md](analysis/Sony.md) |
 | SpaceX | 2026.11.28 | [analysis/SpaceX.md](analysis/SpaceX.md) |
 | Dell Technologies | 2026.11.25 | [analysis/Dell-Technologies.md](analysis/Dell-Technologies.md) |
 | Micron Technology | 2026.11.23 | [analysis/Micron-Technology.md](analysis/Micron-Technology.md) |
